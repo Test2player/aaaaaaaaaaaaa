@@ -1,0 +1,10 @@
+
+.lop{
+    padding: 0;
+}
+img{
+    max-height: 100%;
+}
+.my_slider .carousel-item img{
+    object-fit: cover;
+}
